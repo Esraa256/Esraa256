@@ -8,7 +8,8 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+<img align="right" src="https://cdn.dribbble.com/userupload/22131771/file/original-2e601bfaef0fea0afbce03f91ff296bd.gif" width="200" alt="Data Analysis Dashboard GIF"/>
+
 
 A recent Electronics Engineering student aspiring to start a freelance career in Data Analysis. Currently developing strong analytical and problem-solving skills through hands-on projects, with a growing interest in data visualization, data exploration, and deriving insights from real-world datasets.
 
